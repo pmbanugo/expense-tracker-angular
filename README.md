@@ -5,6 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 It was created as a demo project for an introduction to Angular article. You can find them on this link
 
 1. [Part 1: A Practical Guide To Angular: Environment and Project Setup](#)
+1. [Part 2: A Practical Guide To Angular: Component and NgModule](#)
 
 ## Development server
 
