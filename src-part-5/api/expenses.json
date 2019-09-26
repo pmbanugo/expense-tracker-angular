@@ -1,0 +1,47 @@
+[
+  {
+    "description": "First shopping for the month",
+    "amount": 20,
+    "date": "2019-08-12"
+  },
+  {
+    "description": "Bicycle for Amy",
+    "amount": 10,
+    "date": "2019-08-08"
+  },
+  {
+    "description": "First shopping for the month",
+    "amount": 14,
+    "date": "2019-07-12"
+  },
+  {
+    "description": "First shopping for the month",
+    "amount": 20,
+    "date": "2019-06-12"
+  },
+  {
+    "description": "Second shopping for the month",
+    "amount": 25,
+    "date": "2019-06-22"
+  },
+  {
+    "description": "Second shopping for the month",
+    "amount": 19,
+    "date": "2019-08-24"
+  },
+  {
+    "description": "Beach trip",
+    "amount": 210,
+    "date": "2019-08-03"
+  },
+  {
+    "description": "Gajeel's Party",
+    "amount": 102,
+    "date": "2019-07-22"
+  },
+  {
+    "description": "Scooter",
+    "amount": 310,
+    "date": "2019-06-19"
+  }
+]
