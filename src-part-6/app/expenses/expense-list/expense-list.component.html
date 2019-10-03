@@ -1,0 +1,19 @@
+<table class="table">
+  <caption *ngIf="showButton">
+    <button type="button" class="btn btn-dark">Add Expense</button>
+  </caption>
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Description</th>
+      <th scope="col">Date</th>
+      <th scope="col">Amount</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let expense of expenses">
+      <td>{{ expense.description }}</td>
+      <td>{{ expense.date }}</td>
+      <td>${{ expense.amount }}</td>
+    </tr>
+  </tbody>
+</table>

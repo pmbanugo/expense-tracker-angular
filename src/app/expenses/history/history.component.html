@@ -1,0 +1,10 @@
+<div class="row">
+  <div class="col-sm-2">
+    Select Month:
+  </div>
+  <div class="col-md-4">
+    <input #month (keyup.enter)="getExpense(month.value)" type="month" />
+  </div>
+</div>
+<br />
+<et-expense-list [expenses]="expenses" [showButton]="false"></et-expense-list>
